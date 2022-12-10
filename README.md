@@ -2,6 +2,7 @@
 
 - 🔭 I am a Software Development Professional skilled in FrontEnd Dev.
 - ✨ I can read C++, Python & SQL.
+- 💬 Ask me about SQL, PL/SQL, Analytics, Advance Excel & Powerpoint
 - 💬 Ask me about Web Development, Data Structures & Algorithms, Databases
 - ❤ Talk with me about Astronomy, Vedic Cosmology, Vedic Literature & Indian Historical Epics.
 - 😎 And Lastly, Do visit my website - ("https://thetaniyagupta.github.io/") Made with ❤ using React.
